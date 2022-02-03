@@ -1,0 +1,78 @@
+
+================================================================
+======== txAdmin starting - 8/21/2021, 9:19:05 PM
+================================================================
+[21:20:24][127.0.0.1][Nick_Bottari] Changing global/fxserver settings via setup stepper.
+[21:28:41][127.0.0.1][Nick_Bottari] refresh
+[21:41:05][127.0.0.1][Nick_Bottari] RESTART SERVER
+[22:07:34][127.0.0.1][Nick_Bottari] restart nebula-test
+[22:09:20][127.0.0.1][Nick_Bottari] STOP SERVER
+
+================================================================
+======== txAdmin starting - 11/29/2021, 10:51:17 PM
+================================================================
+
+================================================================
+======== txAdmin starting - 11/29/2021, 10:56:38 PM
+================================================================
+
+================================================================
+======== txAdmin starting - 1/6/2022, 3:13:32 PM
+================================================================
+
+================================================================
+======== txAdmin starting - 1/6/2022, 3:49:25 PM
+================================================================
+
+================================================================
+======== txAdmin starting - 1/6/2022, 5:23:49 PM
+================================================================
+
+================================================================
+======== txAdmin starting - 1/30/2022, 1:00:12 PM
+================================================================
+
+================================================================
+======== txAdmin starting - 1/30/2022, 1:11:00 PM
+================================================================
+[13:29:00][24.147.160.160][Nick_Bottari] ensure "nb-coords"
+[13:29:01][24.147.160.160][Nick_Bottari] ensure "nb-spawn"
+[13:40:06][24.147.160.160][Nick_Bottari] ensure "nb-coords"
+[13:56:19][24.147.160.160][Nick_Bottari] STOP SERVER
+[13:56:38][24.147.160.160][Nick_Bottari] START SERVER
+[14:05:52][24.147.160.160][Nick_Bottari] refresh
+[14:06:06][24.147.160.160][Nick_Bottari] RESTART SERVER
+[14:08:04][24.147.160.160][Nick_Bottari] STOP SERVER
+[14:08:07][24.147.160.160][Nick_Bottari] START SERVER
+[14:15:55][24.147.160.160][Nick_Bottari] RESTART SERVER
+[14:27:57][24.147.160.160][Nick_Bottari] STOP SERVER
+
+================================================================
+======== txAdmin Starting - 1/30/2022, 2:32:54 PM               
+================================================================
+[14:33:03] [Nick_Bottari] logged in from 51.178.63.28 via citizenfx
+[14:33:46] [Nick_Bottari] logged in via in-game ui
+[14:38:11] [Nick_Bottari] logged in via in-game ui
+[14:38:51] [Nick_Bottari] logged in via in-game ui
+[14:53:27] [Nick_Bottari] refresh
+[14:53:34] [Nick_Bottari] ensure "nb-tp"
+[15:53:26] [Nick_Bottari] stop "nb-tp"
+[15:53:35] [Nick_Bottari] ensure "nb-tp"
+[16:42:54] [Nick_Bottari] logged in via in-game ui
+[16:52:31] [Nick_Bottari] logged in via in-game ui
+[16:57:30] [Nick_Bottari] logged in from via NUI iframe
+[16:58:02] [Nick_Bottari] RESTART SERVER
+[16:59:12] [Nick_Bottari] logged in via in-game ui
+[17:00:04] [Nick_Bottari] ensure "nb-tp"
+[17:01:13] [Nick_Bottari] logged in via in-game ui
+[17:02:30] [Nick_Bottari] ensure "nb-tp"
+
+================================================================
+======== txAdmin Starting - 1/30/2022, 6:36:39 PM               
+================================================================
+[18:36:57] [Nick_Bottari] logged in from 51.178.63.28 via citizenfx
+[18:41:16] [Nick_Bottari] logged in via in-game ui
+[18:41:47] [Nick_Bottari] Sending announcement: joe mom
+[18:55:39] [Nick_Bottari] refresh
+[18:55:45] [Nick_Bottari] ensure "nb-car_spawn"
+[18:56:05] [Nick_Bottari] logged in via in-game ui

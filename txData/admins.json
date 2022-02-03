@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nick_Bottari",
+    "master": true,
+    "password_hash": "$2a$11$7U.rdnvdm9W6in7og4hKWeBHOwmkr2b5WVl8X5Ly1HjxEDpdb4y5i",
+    "providers": {
+      "citizenfx": {
+        "id": "Nick_Bottari",
+        "identifier": "fivem:1153130",
+        "data": {
+          "sub": "b3f4db67f5c461e678c8645d632b3a97",
+          "nameid": "https://forum.cfx.re/internal/user/1153130",
+          "name": "Nick_Bottari",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/nick_bottari/256/630258_2.png",
+          "profile": "https://forum.cfx.re/u/Nick_Bottari"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
