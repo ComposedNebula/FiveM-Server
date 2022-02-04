@@ -1,1 +1,0 @@
-RegisterCommand( "test" , func)
