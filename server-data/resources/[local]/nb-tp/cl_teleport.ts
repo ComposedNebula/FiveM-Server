@@ -1,4 +1,4 @@
-// @ts-nocheck
+//@ts-nocheck
 import tpLocations from './locations.json'
 
 Delay = (ms) => new Promise(res => setTimeout(res, ms))

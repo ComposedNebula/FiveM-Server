@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 fx_version 'cerulean'
 game 'gta5'
 

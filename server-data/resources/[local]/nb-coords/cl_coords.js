@@ -1,4 +1,4 @@
-const fs = require('fs')
+import { writeFile } from 'fs'
 
 RegisterCommand('coords',(source, args)=>{
     if(args < 0){
@@ -7,7 +7,7 @@ RegisterCommand('coords',(source, args)=>{
     } else if(args[1] === 'save'){
         const playerCoords = GetEntityCoords(source)
         let data = playerCoords
-        fs.writeFile('../saved-coords.txt', data, (err)=>{
+        writeFile('../saved-coords.txt', data, (err)=>{
             if(err){
                 console.log('error in writing file')
             } else {
