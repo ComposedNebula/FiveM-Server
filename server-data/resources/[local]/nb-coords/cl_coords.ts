@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { writeFile } from 'fs'
 
 RegisterCommand('coords',(source, args)=>{
@@ -7,7 +8,7 @@ RegisterCommand('coords',(source, args)=>{
     } else if(args[1] === 'save'){
         const playerCoords = GetEntityCoords(source)
         let data = playerCoords
-        writeFile('../saved-coords.txt', data, (err)=>{
+        writeFile('../saved-coords.txt', data, (err: any)=>{
             if(err){
                 console.log('error in writing file')
             } else {

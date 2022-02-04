@@ -1,3 +1,4 @@
+//@ts-nocheck
 const spawnPos = [686.245, 577.95, 130.461];
 
 on("onClientGameTypeStart", () => {
