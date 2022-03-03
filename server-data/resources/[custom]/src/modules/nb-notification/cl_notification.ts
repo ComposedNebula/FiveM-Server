@@ -1,5 +1,5 @@
 RegisterCommand('notif', (source, args)=>{
-    source = GetPlayerPed(-1)
+    source = PlayerPedId()
     SetNotificationTextEntry("STRING")
 	AddTextComponentString(`${source} - ${args.join(' ')}`)
 	DrawNotification(false, false)

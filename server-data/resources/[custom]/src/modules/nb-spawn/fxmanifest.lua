@@ -1,4 +1,4 @@
 fx_version 'cerulean'
 game 'gta5'
 
-client_script 'cl_spawnManager.js'
+client_script 'cl_spawnManager.ts'

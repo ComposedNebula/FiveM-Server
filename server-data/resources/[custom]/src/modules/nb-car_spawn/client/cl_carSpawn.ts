@@ -1,4 +1,4 @@
-Delay = (ms)=> new Promise(res => setTimeout(res, ms))
+import { Delay } from '../../../helpers/helpers'
 
 RegisterCommand('spawncar', async(source, args, raw)=>{
     let model = 'adder'
@@ -58,15 +58,15 @@ setImmediate(()=>{
 
 
 RegisterCommand('vhealth', ()=>{
-    const ped = GetPlayerPed()
+    const ped = PlayerPedId()
     const pedVehicle = GetVehiclePedIsIn(ped, false)
     
     const vhealth = GetVehicleEngineHealth(pedVehicle)
     return console.log(vhealth)
-})
+}, false)
 
 RegisterCommand('fix', ()=>{
-    const ped = GetPlayerPed()
+    const ped = PlayerPedId()
     const pedVehicle = GetVehiclePedIsIn(ped, false)
 
     SetVehicleEngineHealth(pedVehicle, 1000)
