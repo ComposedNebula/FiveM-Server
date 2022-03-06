@@ -1,4 +1,4 @@
-import { Delay } from '../../../helpers/helpers'
+const Delay = (ms) => new Promise(res => setTimeout(res, ms))
 
 RegisterCommand('spawncar', async(source, args, raw)=>{
     let model = 'adder'

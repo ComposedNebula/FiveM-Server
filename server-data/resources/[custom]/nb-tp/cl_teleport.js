@@ -1,4 +1,4 @@
-import { Delay } from '../../helpers/helpers'
+const Delay = (ms) => new Promise(res => setTimeout(res, ms))
 
 const locations = [
     {
@@ -15,9 +15,9 @@ const locations = [
         "name": "Mission Row PD",
         "desc": "LSPD Headquarters",
         "coords": {
-            "x": 738,
-            "y": 183,
-            "z": 812
+            "x": 427.719,
+            "y": -976.660,
+            "z": 30.709
         }
     },
 
@@ -32,14 +32,16 @@ const locations = [
     }
 ]
 
-RegisterCommand('tp_saved', async (source: number, args: string)=>{
-    const ped = source
+RegisterCommand('tp_saved', async (source, args)=>{
+    const ped = PlayerPedId()
     const pedVehicle = GetVehiclePedIsIn(ped, false)
     let isInVehicle = false
     if(pedVehicle !== null){
         isInVehicle = true
     }
+    
     let desLocation = 0
+    
     switch(args[0]){
         case 'casino':
             desLocation = 0
@@ -51,6 +53,8 @@ RegisterCommand('tp_saved', async (source: number, args: string)=>{
             desLocation= 2
             break;
     }
+
+    console.log(ped)
     // if(rawArgInput === 'casino'){
     //     desLocation = [0]
     // } else if(rawArgInput === 'fib'){
@@ -59,6 +63,7 @@ RegisterCommand('tp_saved', async (source: number, args: string)=>{
     //     desLocation = [1]
     // }
     const desLocationCoords = locations[desLocation].coords
+    console.log(desLocationCoords)
 
     SetEntityCoords(ped, desLocationCoords.x, desLocationCoords.y, desLocationCoords.z, true, true, false, false)
     if(isInVehicle){
@@ -68,14 +73,15 @@ RegisterCommand('tp_saved', async (source: number, args: string)=>{
     }
 }, false)
 
-RegisterCommand('tp_coords', async (source: number, args: any)=>{
-    const ped = source
+RegisterCommand('tp_coords', async (source, args)=>{
+    const ped = PlayerPedId()
     const pedVehicle = GetVehiclePedIsIn(ped, false)
     let isInVehicle = false
     if(pedVehicle !== null || 0){
         isInVehicle = true
     }
-    const desLocationCoords = args
+    const desLocationCoords = [parseFloat(args[0]), parseFloat(args[1]), parseFloat(args[2])]
+    console.log(desLocationCoords)
 
     SetEntityCoords(ped, desLocationCoords[0], desLocationCoords[1], desLocationCoords[2], true, true, false, false)
     if(isInVehicle){

@@ -1,4 +1,3 @@
----@diagnostic disable
 RegisterCommand('send', function(source, args)
     local argString = table.concat(args, ' ')
     MySQL.Async.fetchAll('INSERT INTO datatable (id, steamName, data) VALUES (@source, @name, @args)',
