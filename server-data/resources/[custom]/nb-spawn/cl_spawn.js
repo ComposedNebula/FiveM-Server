@@ -33,14 +33,13 @@ on("onClientGameTypeStart", () => {
   });
 
   exports.spawnmanager.setAutoSpawn(true);
-  exports.spawnmanager.forceRespawn();
 
 
 console.log(`spawned at ${spawnPos}`);
 
 });
 
-RegisterCommand('spawn', () => {
+RegisterCommand('spawn', async () => {
     cam = CreateCam('DEFAULT_SCRIPTED_CAMERA', true)
     const ped = PlayerPedId()
     console.log(cam)
@@ -52,7 +51,7 @@ RegisterCommand('spawn', () => {
     FreezeEntityPosition(ped, true)
     SetEntityVisible(ped, false)
     
-    Delay(2000)
+    await Delay(100)
     emit('spawn:spawned')
     
 }, false)
@@ -64,6 +63,9 @@ on('spawn:teleported', () => {
   FreezeEntityPosition(ped, false)
   SetEntityVisible(ped, true)
   SetPlayerInvincible(ped, false)
+  setImmediate(()=>{
+    DoScreenFadeIn(1000)
+  })
 })
 
 on('spawn:in', async () => {
@@ -78,7 +80,13 @@ on('spawn:in', async () => {
   FreezeEntityPosition(ped, true)
   SetEntityVisible(ped, false)
   
-  await Delay(2000)
+  await Delay(1000)
   emit('spawn:spawned')
   
+})
+
+RegisterCommand('respawn', () => {
+  const playerCoords = GetEntityCoords(PlayerPedId())
+  NetworkResurrectLocalPlayer(playerCoords[0], playerCoords[1], playerCoords[2], 0, true, true)
+  ClearPedBloodDamage(PlayerPedId())
 })

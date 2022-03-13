@@ -84,3 +84,14 @@ RegisterCommand('fix', ()=>{
 //     })
     console.log('fixed', pedVehicle)
 }, false)
+
+RegisterCommand('eng', (source, args) => {
+    pedVeh = GetVehiclePedIsIn(PlayerPedId())
+    let bool = null
+    if (args[0] === 'on') {
+        bool = true
+    } else {
+        bool = false
+    }
+    SetVehicleEngineOn(pedVeh, bool, false, false)
+})

@@ -3,6 +3,7 @@ const Delay = (ms) => new Promise(res => setTimeout(res, ms))
 const locations = [
     {
         "name": "Diamond Casino",
+        "cmdName": "casino",
         "desc": "The Diamond Casino and Resort",
         "coords": {
             "x": 925.783,
@@ -32,15 +33,17 @@ const locations = [
     }
 ]
 
-RegisterCommand('tp_saved', async (source, args)=>{
+RegisterCommand('tp_saved', async (_, args)=>{
     const ped = PlayerPedId()
     const pedVehicle = GetVehiclePedIsIn(ped, false)
     let isInVehicle = false
+    let desLocation = 0
+
     if(pedVehicle !== null){
         isInVehicle = true
     }
     
-    let desLocation = 0
+    
     
     switch(args[0]){
         case 'casino':

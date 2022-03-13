@@ -1,191 +1,53 @@
 
 ================================================================
-======== txAdmin Starting - 1/31/2022, 8:13:34 PM               
+======== txAdmin Starting - 3/12/2022, 5:24:51 PM               
 ================================================================
 
 ================================================================
-======== Log Rotated - 1/31/2022, 8:13:34 PM                    
+======== Log Rotated - 3/12/2022, 5:24:51 PM                    
 ================================================================
-[8:13:37 PM] txAdmin: Logger started
-[8:14:25 PM] [JEBTF#1] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[8:21:06 PM] [JEBTF#1] ComposedNebula2: teleported to a waypoint
-[8:27:20 PM] [JEBTF#1] ComposedNebula2: disconnected
-
-================================================================
-======== txAdmin Starting - 3/5/2022, 11:14:06 AM               
-================================================================
-[11:14:09 AM] txAdmin: Logger started
-[11:15:14 AM] [x9iMn#1] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[11:18:58 AM] [x9iMn#1] ComposedNebula2: said "/spawncar adder"
-[11:19:32 AM] [x9iMn#1] ComposedNebula2: said "/spawncar ader"
-[11:19:36 AM] [x9iMn#1] ComposedNebula2: said "/spawncar adder"
-[11:25:33 AM] [x9iMn#1] ComposedNebula2: said "/spawncar adder"
-[11:29:07 AM] [x9iMn#1] ComposedNebula2: said "/hide"
-[11:30:36 AM] [x9iMn#1] ComposedNebula2: said "/spawncar adder"
-[11:33:21 AM] [x9iMn#1] ComposedNebula2: said "/spawncar adder"
-[11:44:59 AM] [x9iMn#1] ComposedNebula2: said "/console.log(source)"
-[11:45:04 AM] [x9iMn#1] ComposedNebula2: said "/crun source"
-[11:45:05 AM] [x9iMn#1] ComposedNebula2: died from suicide (Falling)
-[11:45:48 AM] [x9iMn#1] ComposedNebula2: said "/crun GetHashKey(2818)"
-[11:48:06 AM] [x9iMn#1] ComposedNebula2: said "/crun GetHashKey(2818)"
-[11:48:17 AM] [x9iMn#1] ComposedNebula2: said "/crun GetHashKey('hi')"
-[11:48:54 AM] [x9iMn#1] ComposedNebula2: said "/crun PlayerPedId()"
-[11:49:04 AM] [x9iMn#1] ComposedNebula2: said "/crun source"
-[11:51:05 AM] [x9iMn#1] ComposedNebula2: said "tp_saved casino"
-[11:54:01 AM] [x9iMn#1] ComposedNebula2: said "/coords"
-[12:26:58 PM] [x9iMn#1] ComposedNebula2: said "nui"
-[12:38:43 PM] [x9iMn#1] ComposedNebula2: enabled noclip
-[12:39:08 PM] [x9iMn#1] ComposedNebula2: became mortal (standard mode)
-[12:39:25 PM] [x9iMn#1] ComposedNebula2: enabled noclip
-[12:39:31 PM] [x9iMn#1] ComposedNebula2: became mortal (standard mode)
-[12:40:18 PM] [x9iMn#1] ComposedNebula2: enabled noclip
-[12:40:50 PM] [x9iMn#1] ComposedNebula2: became mortal (standard mode)
-[12:41:33 PM] [x9iMn#1] ComposedNebula2: enabled noclip
-[12:42:06 PM] [x9iMn#1] ComposedNebula2: became mortal (standard mode)
-[1:15:59 PM] [x9iMn#1] ComposedNebula2: disconnected
-
-================================================================
-======== txAdmin Starting - 3/5/2022, 1:16:14 PM                
-================================================================
-[1:16:17 PM] txAdmin: Logger started
-[1:16:27 PM] [iFTD4#1] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[1:18:24 PM] [iFTD4#1] ComposedNebula2: enabled noclip
-[1:19:22 PM] [iFTD4#1] ComposedNebula2: became mortal (standard mode)
-[1:30:54 PM] [iFTD4#1] ComposedNebula2: said "/crun GetEntityHeading(PlayerPedId())"
-[1:32:05 PM] [iFTD4#1] ComposedNebula2: said "/crun SetEntityHeading(PlayerPedId(), 34.23450088501)"
-[1:39:19 PM] [iFTD4#1] ComposedNebula2: said "/crun GetEntityRotation(PlayerPedId(), 0)"
-[1:39:22 PM] [iFTD4#1] ComposedNebula2: said "/crun GetEntityRotation(PlayerPedId(), 1)"
-[1:39:32 PM] [iFTD4#1] ComposedNebula2: said "/crun GetEntityRotation(PlayerPedId(), 2)"
-[1:40:21 PM] [iFTD4#1] ComposedNebula2: said "/crun GetEntityRotation(PlayerPedId(), 0)"
-[1:43:30 PM] [iFTD4#1] ComposedNebula2: said "/crun CreateCamWithParams('DEFAULT_SCRIPTED_CAMERA', 326.2112731933594, -1615.0489501953125, 94.49041748046875, -0.002789021, 0.002857814, 22.4899, 100, true, 2)"
-[1:44:13 PM] [iFTD4#1] ComposedNebula2: said "/crun GetCamCoord(4866)"
-[1:46:49 PM] [iFTD4#1] ComposedNebula2: said "/run GetCamMatrix(4866)"
-[1:46:54 PM] [iFTD4#1] ComposedNebula2: said "/crun GetCamMatrix(4866)"
-[1:47:05 PM] [iFTD4#1] ComposedNebula2: caused an explosion (PLANE)
-[1:51:23 PM] [iFTD4#1] ComposedNebula2: said "/crun GetRenderingCam()"
-[1:52:29 PM] [iFTD4#1] ComposedNebula2: said "/crun CellCamActivate(true, true)"
-[1:52:41 PM] [iFTD4#1] ComposedNebula2: said "/crun CellCamActivate(true, false)"
-[1:52:51 PM] [iFTD4#1] ComposedNebula2: said "/crun CellCamActivate(false, true)"
-[1:52:59 PM] [iFTD4#1] ComposedNebula2: said "/crun CellCamActivate(false, false)"
-[1:53:05 PM] [iFTD4#1] ComposedNebula2: said "/crun CellCamActivate(false, true)"
-[1:53:14 PM] [iFTD4#1] ComposedNebula2: said "/crun CellCamActivate(true, false)"
-[1:53:23 PM] [iFTD4#1] ComposedNebula2: said "/crun CellCamActivate(false, false)"
-[1:53:40 PM] [iFTD4#1] ComposedNebula2: said "/crun NetworkSetInFreeCamMode(true)"
-[1:54:42 PM] [iFTD4#1] ComposedNebula2: said "/crun QueueMissionRepeatSave()"
-[1:55:17 PM] [iFTD4#1] ComposedNebula2: said "/crun GetInteriorFromGameplayCam()"
-[1:55:26 PM] [iFTD4#1] ComposedNebula2: died from suicide (Falling)
-[1:55:35 PM] [iFTD4#1] ComposedNebula2: said "/txadm"
-[1:55:39 PM] [iFTD4#1] ComposedNebula2: enabled noclip
-[1:55:51 PM] [iFTD4#1] ComposedNebula2: became mortal (standard mode)
-[1:55:55 PM] [iFTD4#1] ComposedNebula2: said "/crun GetInteriorFromGameplayCam()"
-[1:57:30 PM] [iFTD4#1] ComposedNebula2: said "/crun SetGameplayCamHash(4866)"
-[1:57:47 PM] [iFTD4#1] ComposedNebula2: said "/GetHashKey(-243212712)"
-[1:57:54 PM] [iFTD4#1] ComposedNebula2: said "/crun GetHashKey(-243212712)"
-[1:59:15 PM] [iFTD4#1] ComposedNebula2: said "/crun SetGameplayCamHash('DEFAULT_SCRIPTED_CAM"
-[1:59:15 PM] [iFTD4#1] ComposedNebula2: said "/)"
-[1:59:18 PM] [iFTD4#1] ComposedNebula2: said "/crun SetGameplayCamHash('DEFAULT_SCRIPTED_CAM')"
-[2:03:07 PM] [iFTD4#1] ComposedNebula2: said "/crun SetCamActive(4866, true)"
-[2:03:47 PM] [iFTD4#1] ComposedNebula2: said "/crun GetCamCoord(4866)"
-[2:13:36 PM] [iFTD4#1] ComposedNebula2: said "/crun DestroyCam(4866)"
-[2:13:57 PM] [iFTD4#1] ComposedNebula2: said "/crun DestroyCam(4866, true)"
-[2:17:38 PM] [iFTD4#1] ComposedNebula2: said "/ca,"
-[2:26:59 PM] [iFTD4#1] ComposedNebula2: said "/ca,"
-[2:27:01 PM] [iFTD4#1] ComposedNebula2: said "/ca,"
-[2:30:04 PM] [iFTD4#1] ComposedNebula2: said "/crun DestroyCam(3075)"
-[2:30:21 PM] [iFTD4#1] ComposedNebula2: said "/crun DestroyCam(3075, true)"
-[2:32:59 PM] [iFTD4#1] ComposedNebula2: said "/cam,"
-[2:33:00 PM] [iFTD4#1] ComposedNebula2: said "/cam,"
-[2:34:39 PM] [iFTD4#1] ComposedNebula2: said "/crun DisplayCash(true)"
-[2:35:22 PM] [iFTD4#1] ComposedNebula2: said "/crun GetFinalRenderedCamFarClip"
-[2:35:28 PM] [iFTD4#1] ComposedNebula2: said "/crun GetFinalRenderedCamFarClip()"
-[2:35:38 PM] [iFTD4#1] ComposedNebula2: said "/crun GetFinalRenderedCamFarDof()"
-[2:36:03 PM] [iFTD4#1] ComposedNebula2: said "/crun GetRenderingCam()"
-[2:36:08 PM] [iFTD4#1] ComposedNebula2: said "/crun GetRenderingCam()"
-[2:36:48 PM] [iFTD4#1] ComposedNebula2: said "/crun RenderScriptCams(true, true, 0,true, true)"
-[2:37:05 PM] [iFTD4#1] ComposedNebula2: said "/crun RenderScriptCams(false, true, 0,true, true)"
-[2:38:46 PM] [iFTD4#1] ComposedNebula2: said "tp_coords 458.2932, -979-9022, 25.69981"
-[2:48:02 PM] [iFTD4#1] ComposedNebula2: disconnected
-[2:48:39 PM] [iFTD4#2] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[2:49:54 PM] [iFTD4#2] ComposedNebula2: disconnected
-[2:51:21 PM] [iFTD4#3] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[2:55:24 PM] [iFTD4#3] ComposedNebula2: said "/crun RenderScriptCams(0, true, 0, false, false)"
-[2:55:36 PM] [iFTD4#3] ComposedNebula2: said "/spawnPlayer()"
-[2:55:54 PM] [iFTD4#3] ComposedNebula2: said "/crun DestroyCam(514)"
-[2:57:44 PM] [iFTD4#3] ComposedNebula2: said "/crun ShakeCam(514, 'JOLT_SHAKE', 10)"
-[2:57:52 PM] [iFTD4#3] ComposedNebula2: said "/crun ShakeCam(514, JOLT_SHAKE, 10)"
-[2:58:10 PM] [iFTD4#3] ComposedNebula2: said "/crun RenderScriptCams(0, true, 0, false, false)"
-[2:58:52 PM] [iFTD4#3] ComposedNebula2: said "/crun DestroyAllCams(true)"
-[2:59:13 PM] [iFTD4#3] ComposedNebula2: said "/crun DetachCam(514)"
-[2:59:30 PM] [iFTD4#3] ComposedNebula2: said "/crun GetCamCoord(514)"
-[3:00:03 PM] [iFTD4#3] ComposedNebula2: said "/crun SetCamActive(514, false)"
-[3:00:07 PM] [iFTD4#3] ComposedNebula2: disconnected
-[3:00:19 PM] [iFTD4#4] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[3:01:44 PM] [iFTD4#4] ComposedNebula2: enabled noclip
-[3:02:12 PM] [iFTD4#4] ComposedNebula2: became mortal (standard mode)
-[3:04:58 PM] [iFTD4#4] ComposedNebula2: disconnected
-[3:05:33 PM] [iFTD4#5] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[3:07:45 PM] [iFTD4#5] ComposedNebula2: disconnected
-[3:08:15 PM] [iFTD4#6] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[3:11:12 PM] [iFTD4#6] ComposedNebula2: disconnected
-[3:11:25 PM] [iFTD4#7] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[3:16:02 PM] [iFTD4#7] ComposedNebula2: disconnected
-[3:16:17 PM] [iFTD4#8] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[3:17:15 PM] [iFTD4#8] ComposedNebula2: disconnected
-[3:17:28 PM] [iFTD4#9] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-
-================================================================
-======== txAdmin Starting - 3/5/2022, 3:31:50 PM                
-================================================================
-[3:31:54 PM] txAdmin: Logger started
-[3:32:27 PM] [MqYp9#1] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[3:33:43 PM] [MqYp9#1] ComposedNebula2: said "/nui"
-[3:36:09 PM] [MqYp9#1] ComposedNebula2: said "/nui"
-[3:36:38 PM] [MqYp9#1] ComposedNebula2: said "/nui"
-[3:36:41 PM] [MqYp9#1] ComposedNebula2: said "/nui"
-[3:38:16 PM] [MqYp9#1] ComposedNebula2: said "/nui"
-[3:45:58 PM] [MqYp9#1] ComposedNebula2: disconnected
-
-================================================================
-======== txAdmin Starting - 3/5/2022, 3:46:23 PM                
-================================================================
-[3:46:25 PM] txAdmin: Logger started
-[3:46:35 PM] [9KHrq#1] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[3:50:03 PM] [9KHrq#2] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[3:50:12 PM] [9KHrq#1] ComposedNebula2: disconnected
-[3:57:54 PM] [9KHrq#2] ComposedNebula2: said "/quit\"
-[3:57:55 PM] [9KHrq#2] ComposedNebula2: disconnected
-[3:58:13 PM] [9KHrq#3] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[3:59:30 PM] [9KHrq#3] ComposedNebula2: disconnected
-[3:59:45 PM] [9KHrq#4] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:00:41 PM] [9KHrq#4] ComposedNebula2: disconnected
-[4:01:19 PM] [9KHrq#5] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:01:54 PM] [9KHrq#5] ComposedNebula2: disconnected
-[4:02:12 PM] [9KHrq#6] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:15:13 PM] [9KHrq#6] ComposedNebula2: said "/spawm"
-[4:16:07 PM] [9KHrq#6] ComposedNebula2: said "/crun RenderScriptCams(0, true, 0, false, false)"
-[4:16:13 PM] [9KHrq#6] ComposedNebula2: said "/crun RenderScriptCams(0, true, 0, false, false)"
-[4:16:54 PM] [9KHrq#6] ComposedNebula2: said "/crun SetGamePlayCamFollowPedThisUpdate(PlayerPedId())"
-[4:17:29 PM] [9KHrq#6] ComposedNebula2: said "/crun 0x8BBACBF51DA047A8(PlayerPedId())"
-[4:17:47 PM] [9KHrq#6] ComposedNebula2: said "/crun SetGameplayCamHash(-1)"
-[4:17:53 PM] [9KHrq#6] ComposedNebula2: said "/crun SetGameplayCamHash('-1')"
-[4:18:01 PM] [9KHrq#6] ComposedNebula2: said "/crun SetGameplayCamHash(1)"
-[4:20:00 PM] [9KHrq#6] ComposedNebula2: said "/crun SetCamActive(1794, false)"
-[4:27:28 PM] [9KHrq#6] ComposedNebula2: said "/crun RenderScriptCams(0, false, 0, false, false)"
-[4:27:39 PM] [9KHrq#6] ComposedNebula2: said "/crun RenderScriptCams(false, false, 1, false, false)"
-[4:27:49 PM] [9KHrq#6] ComposedNebula2: said "/crun RenderScriptCams(0, false, 0, false, false)"
-[4:28:52 PM] [9KHrq#6] ComposedNebula2: said "/crun SetCamActive(2050, false)"
-[4:34:36 PM] [9KHrq#6] ComposedNebula2: disconnected
-[4:34:49 PM] [9KHrq#7] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:37:35 PM] [9KHrq#7] ComposedNebula2: disconnected
-[4:38:06 PM] [9KHrq#8] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:41:02 PM] [9KHrq#8] ComposedNebula2: disconnected
-[4:41:15 PM] [9KHrq#9] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:47:41 PM] [9KHrq#9] ComposedNebula2: disconnected
-[4:47:54 PM] [9KHrq#10] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:48:43 PM] [9KHrq#10] ComposedNebula2: disconnected
-[4:48:57 PM] [9KHrq#11] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:49:14 PM] [9KHrq#11] ComposedNebula2: disconnected
-[4:50:16 PM] [9KHrq#12] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:50:59 PM] [9KHrq#12] ComposedNebula2: disconnected
-[4:51:14 PM] [9KHrq#13] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
-[4:52:33 PM] [9KHrq#13] ComposedNebula2: disconnected
+[5:25:02 PM] txAdmin: Logger started
+[5:25:47 PM] [g6YHm#1] ComposedNebula2: joined with identifiers [license:806902a93baccf1551e5e82d72b60b965ef45b57; xbl:2535459259945443; live:1055521595021955; discord:311597948553134081; fivem:1153130]
+[5:30:00 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE)
+[5:30:02 PM] [g6YHm#1] ComposedNebula2: died from suicide
+[5:31:17 PM] [g6YHm#1] ComposedNebula2: died from suicide (Falling)
+[5:35:01 PM] [g6YHm#1] ComposedNebula2: enabled noclip
+[5:35:07 PM] [g6YHm#1] ComposedNebula2: became mortal (standard mode)
+[5:35:20 PM] [g6YHm#1] ComposedNebula2: died from suicide (Falling)
+[5:35:31 PM] [g6YHm#1] ComposedNebula2: died from suicide (Falling)
+[5:46:17 PM] [g6YHm#1] ComposedNebula2: said "/txAdmin:noClipToggle"
+[5:46:33 PM] [g6YHm#1] ComposedNebula2: enabled noclip
+[5:47:11 PM] [g6YHm#1] ComposedNebula2: became mortal (standard mode)
+[5:47:23 PM] [g6YHm#1] ComposedNebula2: died from suicide (Falling)
+[6:43:58 PM] [g6YHm#1] ComposedNebula2: said "/txadmin\"
+[6:45:03 PM] [g6YHm#1] ComposedNebula2: said "/ClearOverrideWeather()"
+[6:51:38 PM] [g6YHm#1] ComposedNebula2: said "/SetOverrideWeather(0x36A83D84)"
+[7:05:11 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:12 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:17 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:17 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE)
+[7:05:26 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:29 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:33 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:33 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:33 PM] [g6YHm#1] ComposedNebula2: caused an explosion (GRENADE)
+[7:05:33 PM] [g6YHm#1] ComposedNebula2: caused an explosion (GRENADE)
+[7:05:33 PM] [g6YHm#1] ComposedNebula2: caused an explosion (GRENADE)
+[7:05:33 PM] [g6YHm#1] ComposedNebula2: caused an explosion (GRENADE)
+[7:05:33 PM] [g6YHm#1] ComposedNebula2: caused an explosion (GRENADE)
+[7:05:33 PM] [g6YHm#1] ComposedNebula2: caused an explosion (GRENADE)
+[7:05:33 PM] [g6YHm#1] ComposedNebula2: caused an explosion (GRENADE)
+[7:05:35 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:37 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:41 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:05:45 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE_ROCKET)
+[7:12:35 PM] [g6YHm#1] ComposedNebula2: died from suicide (Pump Shotgun)
+[7:14:52 PM] [g6YHm#1] ComposedNebula2: caused an explosion (PLANE)
+[7:16:01 PM] [g6YHm#1] ComposedNebula2: died from suicide (Carbine Rifle)
+[7:20:18 PM] [g6YHm#1] ComposedNebula2: died from suicide (Pistol)
+[7:20:59 PM] [g6YHm#1] ComposedNebula2: died from suicide (Pistol)
+[7:22:46 PM] [g6YHm#1] ComposedNebula2: died from suicide (Pistol)
+[7:25:12 PM] [g6YHm#1] ComposedNebula2: died from suicide (Pistol)
+[7:26:36 PM] [g6YHm#1] ComposedNebula2: died from suicide (Pistol)
+[7:26:46 PM] [g6YHm#1] ComposedNebula2: said "/CreateMobilePhone(1)"
+[7:27:15 PM] [g6YHm#1] ComposedNebula2: disconnected
