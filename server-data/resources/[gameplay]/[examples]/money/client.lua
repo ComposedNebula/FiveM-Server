@@ -1,6 +1,6 @@
 local moneyTypes = {
-    cash = `MP0_WALLET_BALANCE`,
-    bank = `BANK_BALANCE`,
+    cash = 'MP0_WALLET_BALANCE',
+    bank = 'BANK_BALANCE',
 }
 
 RegisterNetEvent('money:displayUpdate')

@@ -24,7 +24,7 @@ end
 
 local function addMoneyForId(playerId, moneyType, amount)
     local curMoney = getMoneyForId(playerId, moneyType)
-    curMoney += amount
+    curMoney = curMoney + amount
 
     if curMoney >= 0 then
         setMoneyForId(playerId, moneyType, curMoney)

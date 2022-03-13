@@ -23,13 +23,13 @@
       <div class="chat-window" :style="this.style" :class="{ 'fadeOutUp animated': !showWindow }" >
         <div class="chat-messages" ref="messages">
           <message v-for="msg in messages"
-                   :templates="templates"
-                   :multiline="msg.multiline"
-                   :args="msg.args"
-                   :color="msg.color"
-                   :template="msg.template"
-                   :template-id="msg.templateId"
-                   :key="msg"
+                  :templates="templates"
+                  :multiline="msg.multiline"
+                  :args="msg.args"
+                  :color="msg.color"
+                  :template="msg.template"
+                  :template-id="msg.templateId"
+                  :key="msg"
                     >
           </message>
         </div>

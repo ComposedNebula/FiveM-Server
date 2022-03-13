@@ -12,7 +12,7 @@ AddEventHandler('getMapDirectives', function(add)
             local amount = data.amount or 100
 
             local idx = fountainIdx
-            fountainIdx += 1
+            fountainIdx = fountainIdx + 1
 
             moneyFountains[idx] = {
                 id = name,

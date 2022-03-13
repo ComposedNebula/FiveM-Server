@@ -6,7 +6,7 @@ AddEventHandler('gameEventTriggered', function(eventName, args)
 
         if isDead then
             local origCoords = GetEntityCoords(victim)
-            local pickup = CreatePickupRotate(`PICKUP_MONEY_VARIABLE`, origCoords.x, origCoords.y, origCoords.z - 0.7, 0.0, 0.0, 0.0, 512, 0, false, 0)
+            local pickup = CreatePickupRotate('PICKUP_MONEY_VARIABLE', origCoords.x, origCoords.y, origCoords.z - 0.7, 0.0, 0.0, 0.0, 512, 0, false, 0)
             local netId = PedToNet(victim)
 
             local undoStuff = { false }

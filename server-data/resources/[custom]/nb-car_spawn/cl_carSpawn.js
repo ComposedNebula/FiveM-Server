@@ -47,16 +47,6 @@ RegisterCommand('spawncar', async(source, args, raw)=>{
 
 }, false)
 
-setImmediate(()=>{
-    emit('chat:addSuggestion', '/spawncar', 'spawn a car model', [
-        {name: 'car model', help: 'enter the model of car you want to spawn'}
-    ])
-})
-
-
-
-
-
 RegisterCommand('vhealth', ()=>{
     const ped = PlayerPedId()
     const pedVehicle = GetVehiclePedIsIn(ped, false)
